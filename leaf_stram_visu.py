@@ -1,3 +1,4 @@
+#import required libraries
 import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
@@ -6,7 +7,7 @@ from tensorflow.keras.models import load_model
 from tensorflow.keras.models import Model
 
 # Load the saved model
-loaded_model = load_model('/Users/pavanvenkatreddy/Downloads/my_model (1).h5')  # Update the path
+loaded_model = load_model('/Users/anchi/Downloads/my_model (1).h5')  # Update the path
 
 # Define custom class labels
 custom_class_labels = [
