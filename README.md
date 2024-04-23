@@ -83,3 +83,6 @@ This project has been developed with a focus on depth, complexity, and real-worl
 - **Collaboration with Agricultural Stakeholders**: AgTech companies can collaborate with agricultural stakeholders, including farmers, agronomists, and research institutions, to deploy the CNN model and Streamlit web application in real-world agricultural settings. By fostering collaboration and knowledge sharing, companies can drive adoption and uptake of their technology solutions, ultimately contributing to sustainable agricultural practices and food security.
 
 ## References
+- https://iopscience.iop.org/article/10.1088/1755-1315/1032/1/012017/pdf
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8049121/
+- https://ieeexplore.ieee.org/document/9645888
