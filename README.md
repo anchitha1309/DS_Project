@@ -1,4 +1,4 @@
-# Rice Leaf Disease Detection Project
+# Rice Leaf Disease Detection Using CNN
 
 ## Abstract
 This project endeavors to tackle the critical issue of rice leaf diseases through advanced deep learning methodologies. By developing a sophisticated convolutional neural network (CNN) model and an intuitive Streamlit web application, this endeavor aims to provide farmers and agricultural experts with a reliable tool for accurate disease classification and diagnosis.
